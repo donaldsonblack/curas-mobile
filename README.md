@@ -50,7 +50,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
-<<<<<<< HEAD
-=======
->>>>>>> 4ce0d93 (Initial commit)
->>>>>>> ce0a021 (Initial commit)
